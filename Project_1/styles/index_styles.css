@@ -1,0 +1,26 @@
+
+
+.rating{
+    font-size: 15px;
+	color:chocolate;
+	font-weight: bolder;
+}
+
+.space{
+    margin-top: 2%;
+}
+.space2{
+    margin-top:3%;
+}
+
+.bck{
+    background-color: rgba(161, 122, 190, 0.123); 
+    border-radius: 30%;
+}
+
+.back{
+    background-color:rgba(255, 247, 239, 0.74)
+}
+
+
+
